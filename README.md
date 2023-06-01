@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorqrozo&color=orange" alt="Profile views" /> </p>
 
-## Meus graficos no GitHub
+## Meus gráficos
 
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorqroz&show_icons=true&theme=vision-friendly-dark"/>
