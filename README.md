@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Igor Queiroz 🤙
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorqrozo&color=orange" alt="Profile views" /></p> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorqroz/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorqrozo&color=orange" alt="Profile views" /></p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorqroz/)
 
 ## Meus gráficos
 
