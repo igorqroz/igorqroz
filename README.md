@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Igor Queiroz 🤙
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=igorqrozo&color=orange" alt="Profile views" /></p>
-
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=igorqrozo&color=orange" alt="Profile views" /></p>&nbsp;
 
 
 ## Meus gráficos
